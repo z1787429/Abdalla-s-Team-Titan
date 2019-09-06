@@ -1,0 +1,23 @@
+ Why is the CPU the most important component in a computer?
+: It is the main thing needed to run programs. Without it, it can’t be done. In addition programs are what we use to do many things on the computer. 
+What number does a bit that is turned on represent? 1
+What number does a bit that is turned off represent? 0
+What would you call a device that works with binary data?
+: Digital Device
+What are the words that make up a high-level programming language called?
+:Keywords
+What are the short words that are used in assembly language called?
+:mnemonics
+What is the difference between a compiler and an interpreter?
+: A compiler sends the work of translating to a separate machine program  and the Interpreter is the software that does the job on reading, translate, and execute instructions.
+What type of software controls the internal operations of the computer’s hardware?
+:Operating System
+What is pseudocode?: a simplified programming language
+What is a flowchart? 
+:A chart with the flow of a process by doing something like purchasing a product.
+When a program runs in a text-based environment, such as a command line interface, what determines the order in which things happen?
+:The GUI
+What does a class specify about an object?
+: A Class describes the content of a specific object
+Can you use C# alone to perform advanced operations such as creating GUIs, reading data from a file, or working with databases? Why or why not?
+  No because C# only provides basic keywords and functions
