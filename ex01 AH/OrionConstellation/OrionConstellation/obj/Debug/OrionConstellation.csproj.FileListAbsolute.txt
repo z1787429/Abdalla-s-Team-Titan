@@ -1,0 +1,20 @@
+C:\Users\Jesus Barajas\Desktop\OrionConstellation\OrionConstellation\bin\Debug\OrionConstellation.exe.config
+C:\Users\Jesus Barajas\Desktop\OrionConstellation\OrionConstellation\bin\Debug\OrionConstellation.exe
+C:\Users\Jesus Barajas\Desktop\OrionConstellation\OrionConstellation\bin\Debug\OrionConstellation.pdb
+C:\Users\Jesus Barajas\Desktop\OrionConstellation\OrionConstellation\obj\Debug\OrionConstellation.csprojAssemblyReference.cache
+C:\Users\Jesus Barajas\Desktop\OrionConstellation\OrionConstellation\obj\Debug\OrionConstellation.OrionConstellation.resources
+C:\Users\Jesus Barajas\Desktop\OrionConstellation\OrionConstellation\obj\Debug\OrionConstellation.Properties.Resources.resources
+C:\Users\Jesus Barajas\Desktop\OrionConstellation\OrionConstellation\obj\Debug\OrionConstellation.csproj.GenerateResource.cache
+C:\Users\Jesus Barajas\Desktop\OrionConstellation\OrionConstellation\obj\Debug\OrionConstellation.csproj.CoreCompileInputs.cache
+C:\Users\Jesus Barajas\Desktop\OrionConstellation\OrionConstellation\obj\Debug\OrionConstellation.exe
+C:\Users\Jesus Barajas\Desktop\OrionConstellation\OrionConstellation\obj\Debug\OrionConstellation.pdb
+C:\Users\ahafe\OneDrive\Documents\titan cloned repository\Abdalla-s-Team-Titan\ex01 AH\OrionConstellation\OrionConstellation\bin\Debug\OrionConstellation.exe.config
+C:\Users\ahafe\OneDrive\Documents\titan cloned repository\Abdalla-s-Team-Titan\ex01 AH\OrionConstellation\OrionConstellation\bin\Debug\OrionConstellation.exe
+C:\Users\ahafe\OneDrive\Documents\titan cloned repository\Abdalla-s-Team-Titan\ex01 AH\OrionConstellation\OrionConstellation\bin\Debug\OrionConstellation.pdb
+C:\Users\ahafe\OneDrive\Documents\titan cloned repository\Abdalla-s-Team-Titan\ex01 AH\OrionConstellation\OrionConstellation\obj\Debug\OrionConstellation.csprojAssemblyReference.cache
+C:\Users\ahafe\OneDrive\Documents\titan cloned repository\Abdalla-s-Team-Titan\ex01 AH\OrionConstellation\OrionConstellation\obj\Debug\OrionConstellation.OrionConstellation.resources
+C:\Users\ahafe\OneDrive\Documents\titan cloned repository\Abdalla-s-Team-Titan\ex01 AH\OrionConstellation\OrionConstellation\obj\Debug\OrionConstellation.Properties.Resources.resources
+C:\Users\ahafe\OneDrive\Documents\titan cloned repository\Abdalla-s-Team-Titan\ex01 AH\OrionConstellation\OrionConstellation\obj\Debug\OrionConstellation.csproj.GenerateResource.cache
+C:\Users\ahafe\OneDrive\Documents\titan cloned repository\Abdalla-s-Team-Titan\ex01 AH\OrionConstellation\OrionConstellation\obj\Debug\OrionConstellation.csproj.CoreCompileInputs.cache
+C:\Users\ahafe\OneDrive\Documents\titan cloned repository\Abdalla-s-Team-Titan\ex01 AH\OrionConstellation\OrionConstellation\obj\Debug\OrionConstellation.exe
+C:\Users\ahafe\OneDrive\Documents\titan cloned repository\Abdalla-s-Team-Titan\ex01 AH\OrionConstellation\OrionConstellation\obj\Debug\OrionConstellation.pdb
